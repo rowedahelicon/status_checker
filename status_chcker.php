@@ -49,7 +49,7 @@ $x++;
 if($online >= 1) {
 $servers = "$servers , $ip_name";
 $status = "<span style=\"color:green;\">online</span>";
-$status_clean = "offline";
+$status_clean = "online";
 }
 else {
 $status = "<span style=\"color:red;\">offline</span>";
