@@ -2,11 +2,11 @@
 //YOU CAN EDIT THESE
 //THIS IS YOUR PHONENUMBER, No hyphens!
 
-$my_phone = "8603872247";
+$my_phone = "0000000";
 
 //This is your phone service, enter in the number of the one you use from the list before
 //1 = Sprint , 2 = Verizon , 3 = T-Mobile, 4 = AT&T 
-$my_carrier = "1";
+$my_carrier = "";
 
 //DON'T EDIT ANYTHING BELOW.
 
